@@ -1,4 +1,1 @@
-###### salom dunyo
-## salom dunyo
-# salom dunyo
-<h1 align='center'>hello word  </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
